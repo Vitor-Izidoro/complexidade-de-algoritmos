@@ -136,12 +136,12 @@ Essa abordagem **falha em alcançar cobertura total** de forma eficiente, refor�
 ---
 
 ##laços:
-combinacoes.py: 1 laço for explícito
-cobertura.py: 1 laço while + 1 laço for explícitos
-analise.py: nenhum laço explícito
-custo.py: 1 laço for explícito (+ 1 gerador)
-randomico.py: 1 laço while explícito
-main.py: 1 laço while explícito
+- combinacoes.py: 1 laço for explícito
+- cobertura.py: 1 laço while + 1 laço for explícitos
+- analise.py: nenhum laço explícito
+- custo.py: 1 laço for explícito (+ 1 gerador)
+- randomico.py: 1 laço while explícito
+- main.py: 1 laço while explícito
 
 ##  Como Executar
 
