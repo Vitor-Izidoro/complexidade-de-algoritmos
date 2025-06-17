@@ -135,7 +135,7 @@ Essa abordagem **falha em alcançar cobertura total** de forma eficiente, refor�
 
 ---
 
-##laços:
+## laços:
 - combinacoes.py: 1 laço for explícito
 - cobertura.py: 1 laço while + 1 laço for explícitos
 - analise.py: nenhum laço explícito
